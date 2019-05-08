@@ -39,9 +39,9 @@ links:
   - title: 首頁
     url: /
   - title: 標籤
-    url:/ /tags/
+    url: /tags/
   - title: About
-      url: /about/
+    url: /about/
   - title: Contact
     url: /contact/
 
