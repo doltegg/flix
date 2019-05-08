@@ -38,6 +38,8 @@ plugins:
 links:
   - title: 首頁
     url: /
+  - title: 分類
+    url: /series/
   - title: 標籤
     url: /tags/
   - title: About
